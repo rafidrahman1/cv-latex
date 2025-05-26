@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1748228494.51154 "d:/Downloads/CV/resume_faangpath.tex" "resume_faangpath.pdf" "resume_faangpath" 1748228495.18994 0
+["pdflatex"] 1748229386.12233 "d:/Downloads/CV/resume_faangpath.tex" "resume_faangpath.pdf" "resume_faangpath" 1748229386.74733 0
   "C:/Users/RafidRahman/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747823715 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/RafidRahman/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1747823264 12668 bc03accd0b1aa5885b72e663e79e96df ""
   "C:/Users/RafidRahman/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747824427 24309554 8819b0961729748c06f1602d1c871189 ""
@@ -63,11 +63,11 @@
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1730400552 14552 27664839421e418b87f56fa4c6f66b1a ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Downloads/CV/resume_faangpath.tex" 1748228493 6265 ffbc958a49f9ad08feda1a5a3eb67697 ""
+  "d:/Downloads/CV/resume_faangpath.tex" 1748229385 6183 71be214b62bb415471f56e8a6540fdc6 ""
   "resume.cls" 1747800556 4928 3b3b57f3c8b0790ce01c73fdc59aee7a ""
-  "resume_faangpath.aux" 1748228495 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "resume_faangpath.out" 1748228494 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume_faangpath.tex" 1748228493 6265 ffbc958a49f9ad08feda1a5a3eb67697 ""
+  "resume_faangpath.aux" 1748229386 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "resume_faangpath.out" 1748229386 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume_faangpath.tex" 1748229385 6183 71be214b62bb415471f56e8a6540fdc6 ""
   (generated)
   "resume_faangpath.aux"
   "resume_faangpath.log"
