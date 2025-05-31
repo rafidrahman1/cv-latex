@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  31 MAY 2025 13:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.21)  31 MAY 2025 15:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,14 +321,19 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 30--30
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--61
+Underfull \hbox (badness 10000) in paragraph at lines 56--62
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 70.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 71.
 (C:\Users\RafidRahman\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
 
 [1
 
@@ -343,17 +348,17 @@ Package rerunfilecheck Info: File `resume_faangpath.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9005 strings out of 473787
- 143698 string characters out of 5717737
- 1947703 words of memory out of 5000000
- 31865 multiletter control sequences out of 15000+600000
- 585253 words of font info for 53 fonts, out of 8000000 for 9000
+ 9007 strings out of 473787
+ 143724 string characters out of 5717737
+ 1946703 words of memory out of 5000000
+ 31866 multiletter control sequences out of 15000+600000
+ 589471 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,93p,716b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on resume_faangpath.pdf (2 pages, 104044 bytes).
+ 84i,6n,93p,716b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on resume_faangpath.pdf (2 pages, 120863 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1748675693.43518 "d:/Repo/cv-latex/resume_faangpath.tex" "resume_faangpath.pdf" "resume_faangpath" 1748675694.17382 0
+["pdflatex"] 1748683948.35462 "d:/Repo/cv-latex/resume_faangpath.tex" "resume_faangpath.pdf" "resume_faangpath" 1748683949.11148 0
   "C:/Users/RafidRahman/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747823715 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/RafidRahman/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747824427 24309554 8819b0961729748c06f1602d1c871189 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256929440 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -19,10 +19,12 @@
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr17.tfm" 1256929440 11948 fa976674f030491ad35532a8a1e37325 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr5.tfm" 1256929440 11804 aefb10c002e6492c25236524a447f969 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr7.tfm" 1256929440 11852 5a9022f105fd1ee2797df861e79ae9a0 ""
+  "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmri10.tfm" 1256929440 16968 1b588d0f410bd67a83eaecf8c64b2a43 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ts1-lmr10.tfm" 1256929440 1556 b86d923e6b2f9aab2e313098a95cb0b8 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb" 1256929440 121021 836464b5fe0c782d94085eb083550ccc ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1256929440 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb" 1256929440 119235 05e5c8d6d60439433e50047898c2c0e0 ""
+  "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb" 1256929440 112593 fda2373ba4420af33949610de4c28fe8 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb" 1256929440 27863 09ce3735688ffde955e72da27c95b61a ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -73,11 +75,11 @@
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1730400552 14552 27664839421e418b87f56fa4c6f66b1a ""
   "C:/Users/RafidRahman/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Repo/cv-latex/resume_faangpath.tex" 1748675691 8492 94a91ff4698e3a8382f899de08e7f57a ""
+  "d:/Repo/cv-latex/resume_faangpath.tex" 1748683947 9029 9abfb2ae047ae1676a0ed9eea4075cf2 ""
   "resume.cls" 1748674119 5067 3b3b57f3c8b0790ce01c73fdc59aee7a ""
-  "resume_faangpath.aux" 1748675694 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "resume_faangpath.out" 1748675694 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume_faangpath.tex" 1748675691 8492 94a91ff4698e3a8382f899de08e7f57a ""
+  "resume_faangpath.aux" 1748683948 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "resume_faangpath.out" 1748683948 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume_faangpath.tex" 1748683947 9029 9abfb2ae047ae1676a0ed9eea4075cf2 ""
   (generated)
   "resume_faangpath.aux"
   "resume_faangpath.log"
