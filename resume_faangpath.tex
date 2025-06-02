@@ -1,7 +1,10 @@
 \documentclass{resume} % Use the custom resume.cls style
 \usepackage[a4paper,left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Set A4 paper size with margins
-% Add professional fonts
-\usepackage{lmodern} % Latin Modern fonts - a more modern version of Computer Modern
+% Add professional sans-serif fonts
+\usepackage{helvet} % Helvetica font
+\usepackage{avant} % Avant Garde font
+\usepackage{sansmathfonts} % Sans-serif math fonts
+\renewcommand{\familydefault}{\sfdefault} % Set the default font family to sans-serif
 % Adjust font sizes for CV readability
 \renewcommand{\Large}{\fontsize{12.5pt}{15pt}\selectfont} % Adjust Large size
 \renewcommand{\large}{\fontsize{11.5pt}{14pt}\selectfont} % Adjust large size
@@ -35,7 +38,6 @@
 
 \begin{rSection}{PROFESSIONAL SUMMARY}
 \textbf{Full-Stack Developer with 1+ years of experience} in building scalable and responsive web applications using \textbf{React}, \textbf{Next.js}, and \textbf{Node.js}. Skilled in crafting clean user interfaces, integrating RESTful APIs, and implementing \textbf{AI-powered features}. Holds a \textbf{Bachelor's in Computer Science} with strong problem-solving abilities and a passion for developing impactful, user-centric software.\\
-\textit{View my portfolio at} \href{https://www.rafid.me}{www.rafid.me}.
 \end{rSection}
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
@@ -57,7 +59,7 @@
 Frontend & React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Responsive Design\\
 Backend & Node.js, Express.js, Spring Boot, ASP.NET, RESTful APIs\\
 Databases & MongoDB, MySQL, Firebase\\
-Tools \& Others & Git, Web Storm, Vercel, CI/CD, API Integration\\
+Tools \& Others & Git, Web Storm, Vercel, CI/CD, API Integration, AI-Agent, Meta Graph API\\
 \end{tabular}\\
 \end{rSection}
 
@@ -68,7 +70,7 @@ Tools \& Others & Git, Web Storm, Vercel, CI/CD, API Integration\\
 
 \begin{itemize}
     \itemsep -3pt {}
-    \item Developed and maintained 3+ production-ready applications across diverse industries
+    \item Developed and maintained 4+ production-ready applications across diverse industries
     \item Built dynamic frontend interfaces with React.js that enhanced user experience and responsiveness
     \item Integrated third-party APIs and services to extend application functionality
     \item Implemented AI agent functionality using OpenAI API for automating content generation
@@ -76,8 +78,6 @@ Tools \& Others & Git, Web Storm, Vercel, CI/CD, API Integration\\
 \end{itemize}
 
 \textbf{\href{https://ana-soft.com/}{ANA-Soft}} \hfill May 2024 - August 2023\\
- 
-
 \begin{itemize}
     \itemsep -3pt {}
     \item Developed and maintained dynamic websites using ASP.NET
@@ -114,10 +114,10 @@ The portfolio showcases my technical skills, design sensibilities, and problem-s
 \item \textbf{\href{https://apple.nazarahnaturals.com/}{Evocart} (Beta)} 
 \begin{itemize}
     \itemsep -3pt {}
-    \item Developed subdomain-specific layout logic with React.js, improving site navigation
-    \item Implemented responsive UI updates for better mobile user experience
-    \item Built AI agent functionality using OpenAI API, automating product generation
-    \item Created RESTful APIs with Express.js, enabling seamless data flow between frontend and backend systems
+    \item Developed subdomain-specific layout logic with Next.js, improving site navigation
+    \item Implemented responsive UI updates using React components for enhanced mobile user experience
+    \item Built AI agent functionality integrating OpenAI API with Next.js API routes, automating product generation
+    \item Created RESTful API endpoints using Next.js API routes, enabling seamless data flow and server-side functionality
 \end{itemize}
 
 \item \textbf{\href{https://github.com/rafidrahman1/ai_agent}{AI Agent}}
